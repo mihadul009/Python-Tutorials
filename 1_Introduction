@@ -1,0 +1,9 @@
+# print command in python:
+
+print("Hello world!")    # output: Hello world!
+print("hey", 6, 7, sep="~")     # output: hey~6~7
+
+# end paramiter
+print("Hey", 6, 7, sep="~", end="009")
+print("Mihadul")
+#output: hey~6~7009Mihad 
