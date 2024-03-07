@@ -1,0 +1,9 @@
+# modules :
+
+import pandas
+import flask 
+import tkinter
+
+# pips :
+
+# pip install pandas
